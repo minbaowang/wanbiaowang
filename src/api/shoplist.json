@@ -1,0 +1,110 @@
+[{
+	"id":1,
+	"trade_name":"天梭旗舰店",
+	"shopName":"天梭TISSOT-T-Trend系列",
+	"imgurl":"../images/fix_c.png",
+	"color":"黑色 精钢母贝",
+	"price":2500,
+	"sale":1900,
+	"saleNum":0.76
+},{
+	"id":2,
+	"trade_name":"商务专营店",					
+	"shopName":"绮年华ETERNA-Kontiki系列",
+	"imgurl":"../images/fix_a.png",
+	"color":"红色 硅胶",
+	"price":10400,
+	"sale":8320,
+	"saleNum":0.8
+},{
+	"id":3,
+	"trade_name":"精工官方旗舰店",						
+	"shopName":"精工SEIKO-Prospex系列",
+	"imgurl":"../images/fix_b.png",
+	"color":"黑色 精钢母贝",
+	"price":3600,
+	"sale":2232,
+	"saleNum":0.62
+},{
+	"id":4,
+	"trade_name":"卡西欧官方旗舰店",						
+	"shopName":"卡西欧PROTREK系列",
+	"imgurl":"../images/paihang2.jpg",
+	"color":"银白色 精钢",
+	"price":3490,
+	"sale":2790,
+	"saleNum":0.8
+},{
+	"id":5,
+	"trade_name":"时尚专营店"	,					
+	"shopName":"斯沃琪Swatch-Originals",
+	"imgurl":"../images/paihang4.jpg",
+	"color":"经典黑 精钢",
+	"price":1280,
+	"sale":1152,
+	"saleNum":0.9
+},{
+	"id":6,
+	"trade_name":"法国赫柏林官方旗舰店",						
+	"shopName":"Michel Herbelin赫柏林",
+	"imgurl":"../images/paihang4.jpg",
+	"color":"黑色 精钢母贝",
+	"price":4800,
+	"sale":2640,
+	"saleNum":0.56
+},{
+	"id":7,
+	"trade_name":"经典专营店",						
+	"shopName":"英纳格Enicar-超薄纳米系列",
+	"imgurl":"../images/paihang6.png",
+	"color":"红色 硅胶",
+	"price":5050,
+	"sale":3787,
+	"saleNum":0.75
+},{
+	"id":8,
+	"trade_name":"天梭旗舰店",					
+	"shopName":"天梭Tissot-PR100系列",
+	"imgurl":"../images/popup_biao.png",
+	"color":"黑色 精钢母贝",
+	"price":4450,
+	"sale":3070,
+	"saleNum":0.69
+},{
+	"id":9,
+	"trade_name":"欧米茄旗舰店"	,					
+	"shopName":"欧米茄Omega-海马系列",
+	"imgurl":"../images/boy_girl2.jpg",
+	"color":"银白色 精钢",
+	"price":57500,
+	"sale":43700,
+	"saleNum":0.76
+},{
+	"id":10,
+	"trade_name":"卡西欧官方旗舰店",					
+	"shopName":"卡西欧PROTREK系列",
+	"imgurl":"../images/fix_c.png",
+	"color":"经典黑 精钢",
+	"price":5000,
+	"sale":4500,
+	"saleNum":0.9
+},{
+	"id":11,
+	"trade_name":"美度旗舰店",				
+	"shopName":"美度-贝伦赛丽系列",
+	"imgurl":"../images/fix_b.png",
+	"color":"红色 硅胶",
+	"price":8700,
+	"sale":6003,
+	"saleNum":0.69
+},{
+	"id":12,
+	"trade_name":"梵德宝官方旗舰店",					
+	"shopName":"瑞士梵德宝-Neb K DIVIN 系列",
+	"imgurl":"../images/paihang2.jpg",
+	"color":"黑色 精钢母贝",
+	"price":7320,
+	"sale":3587,
+	"saleNum":0.5
+}
+]

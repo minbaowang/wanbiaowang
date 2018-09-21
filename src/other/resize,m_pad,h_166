@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>InvalidArgument</Code>
+  <Message>Process format is invalid.</Message>
+  <RequestId>5B9B6331B1E9EC0AF10D3249</RequestId>
+  <HostId>image8.wbiao.co</HostId>
+  <ArgumentName>x-oss-process</ArgumentName>
+  <ArgumentValue></ArgumentValue>
+</Error>

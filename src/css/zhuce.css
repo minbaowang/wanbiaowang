@@ -1,0 +1,165 @@
+@charset "utf-8";
+body {
+	background: #fafafa!important
+}
+
+.main {
+	width: 840px;
+	margin: 0 auto;
+	background: 0 0
+}
+
+.main .main_head {
+	height: 115px;
+	position: relative
+}
+
+.main .main_head .main_head_content {
+	position: absolute;
+	top: 52px;
+	left: 0
+}
+
+.main .main_head .main_head_content a,
+.main .main_head .main_head_content span {
+	float: left
+}
+
+.main .main_head .main_head_content a {
+	margin-top: -8px
+}
+
+.main .main_box {
+	border: 1px solid #f0f0f0;
+	background: #fff;
+	min-height: 260px;
+	margin: 40px auto 0
+}
+
+.main .main_box .main_box_content {
+	padding: 50px 0
+}
+
+.main .main_box .main_box_content h5 {
+	font-weight: 400;
+	font-size: 28px;
+	color: #000;
+	padding-bottom: 30px;
+	text-align: center
+}
+
+.main .main_box .main_box_content .content_box {
+	width: 338px;
+	margin: 0 auto
+}
+
+.main .main_box .main_box_content .content_box i {
+	line-height: 16px;
+	font-size: 10px;
+	color: #d00000;
+	margin-top: 8px;
+	display: block;
+	margin-bottom: -7px;
+	font-weight: 700;
+	background: url(/public/images/sprites-a/icon-a-error-../images/icon.png) no-repeat left center;
+	padding-left: 18px
+}
+
+.main .main_box .main_box_content .content_box i a {
+	color: #187efb
+}
+
+.main .main_box .main_box_content .content_box p {
+	margin-top: 15px;
+	line-height: 38px;
+	position: relative;
+	overflow: hidden
+}
+
+.main .main_box .main_box_content .content_box p.condition {
+	font-size: 12px;
+	color: #999;
+	padding-bottom: 20px
+}
+
+.main .main_box .main_box_content .content_box p.condition a {
+	color: #000
+}
+
+.main_box .main_box_content .content_box em {
+	position: absolute;
+	top: 12px;
+	left: 11px
+}
+
+.main_box .main_box_content .content_box .ico {
+	top: 12px;
+	right: 11px;
+	position: absolute
+}
+
+.main_box .main_box_content .content_box input {
+	width: 301px;
+	height: 38px;
+	line-height: 38px;
+	border: 1px solid #e8e8e8;
+	font-size: 12px;
+	background-color: transparent;
+	padding-left: 35px
+}
+
+.main_box .main_box_content .content_box .recommend input {
+	padding-left: 10px;
+	width: 326px;
+	margin-top: 15px
+}
+
+.main_box .main_box_content .content_box p .uchatcha_img {
+	position: absolute;
+	right: 1px;
+	top: 1px;
+	width: 98px;
+	height: 38px
+}
+
+.main_box .main_box_content .content_box p .yzmti {
+	width: 193px;
+	float: left
+}
+
+.main_box .main_box_content .content_box p .r_stext {
+	float: right;
+	width: 98px;
+	cursor: pointer;
+	height: 38px;
+	background: #fff;
+	border: 1px solid #ddd;
+	color: #333!important;
+	font-size: 12px;
+	padding: 0
+}
+
+.main_box_content .content_box .register {
+	width: 340px;
+	height: 38px;
+	font-size: 14px;
+	background: #b32424;
+	color: #fff;
+	border: 0;
+	border-radius: 2px;
+	display: block;
+	margin: 35px auto 0;
+	line-height: 38px;
+	text-align: center
+}
+
+.layui-layer-hui .layui-layer-content {
+	padding: 22px;
+	line-height: 28px
+}
+
+/*js需引用的样式*/
+
+#cont1,#cont2,#cont3{
+	width: 338px;
+}
